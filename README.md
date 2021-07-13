@@ -13,9 +13,8 @@ You can read my technology blogs from the links below:
 
 * Chinese: 
   
-  CSDN: https://blog.csdn.net/weixin_43441742
-  
-  jianshu: https://www.jianshu.com/u/0f93d62add33
+  * CSDN: https://blog.csdn.net/weixin_43441742
+  * jianshu: https://www.jianshu.com/u/0f93d62add33
 
 I'm so appreciated if you like them. 
 
