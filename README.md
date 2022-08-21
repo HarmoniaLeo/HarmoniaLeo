@@ -1,4 +1,5 @@
 ## About me
+* Artificial Intelligence
 * Data Science
 * Computer Vision 
 
