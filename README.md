@@ -1,5 +1,6 @@
 ## About me
 * Artificial Intelligence
+* Reinforcement Learning
 * Data Science
 * Computer Vision 
 
