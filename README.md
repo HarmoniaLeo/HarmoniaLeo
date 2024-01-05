@@ -4,8 +4,6 @@
 * Data Science
 * Computer Vision 
 
-Kaggle: https://www.kaggle.com/harmonialeoleo
-
 Blogs: 
 
 * Chinese: 
